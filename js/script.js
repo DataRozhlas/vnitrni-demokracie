@@ -1,1 +1,1 @@
-// JS soubory ve složce /styles/ se do výsledného článku zakompilují automaticky
+// skripty ve složce js/ se zakompilují automaticky
