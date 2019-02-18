@@ -1,0 +1,241 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Highcharts Example</title>
+
+		<style type="text/css">
+
+		</style>
+	</head>
+	<body>
+
+<wide><div style="width: 800px" id="casovaRada"></div></wide>
+
+<wide><div style="width: 800px" id="ano"></div></wide>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+
+<script type="text/javascript">
+
+var colors = ['#EA614A', '#20649B', '#008836', '#6B96CA', '#A38456', '#A87A93', '#D19C95']
+
+//                      4K         ANO        ČSSD        KDU        KSČM      ODA        ODS        Piráti     SPD        SPR-RSČ    STAN       SZ         TOP 09			US        Úsvit      VV         průměr
+var casovaRadaColors = ['#00A366', '#2B2B5D', '#FF4C00', '#FFCA00', '#9B0000', '#003891', '#0050A1', '#000000', '#0077BC', '#FF0000', '#A8CA4B', '#5CC14C', '#8F5D76', '#9D3583', '#FF1A42', '#00B0F1', '#AAAAAA']
+
+var casovaRada4K = [null, null, 66.6, null, null, null, null];
+
+var casovaRadaANO = [null, null, null, null, null, 69.3, 79.6];
+
+var casovaRadaCSSD = [73.7, 75.7, 72.5, 68.9, 62.0, 65.7, 64.1];
+
+var casovaRadaKDU = [77.0, 73.9, null, 62.3, null, 68.0, 71.4];
+
+var casovaRadaKSCM = [81.4, 74.2, 75.0, 76.4, 77.8, 77.4, 74.1];
+
+var casovaRadaODA = [72.6, null, null, null, null, null, null];
+
+var casovaRadaODS = [74.4, 74.0, 65.4, 68.6, 68.2, 71.9, 75.7];
+
+var casovaRadaPirati = [null, null, null, null, null, null, 83.7];
+
+var casovaRadaSPD = [null, null, null, null, null, null, 82.1];
+
+var casovaRadaSPR = [91.4, null, null, null, null, null, null];
+
+var casovaRadaSTAN = [null, null, null, null, null, null, 76.6];
+
+var casovaRadaSZ = [null, null, null, 69.4, null, null, null];
+
+var casovaRadaTOP = [null, null, null, null, 76.8, 66.0, 68.4];
+
+var casovaRadaUS = [null, 69.9, null, null, null, null, null];
+
+var casovaRadaUsvit = [null, null, null, null, null, 63.0, null];
+
+var casovaRadaVV = [null, null, null, null, 64.6, null, null];
+
+var casovaRadaPrumer = [78.4, 73.5, 69.9, 69.1, 69.9, 68.8, 75.1];
+
+var casovaRadaLegenda = [1996, 1998, 2002, 2006, 2010, 2013, 2017];
+
+var poslanciANO = ["Jaroslava Pokorná Jermanová","Kamal Farhan","David Štolpa","Petr Vrána","Stanislav Fridrich","Josef Bělica","Jiří Strýček","Michal Ratiborský","Marek Novák","Miloslav Janulík","Milan Pour","Milan Hnilička","Roman Kubíček","Jiří Bláha","Radek Zlesák","Jan Schiller","Lenka Dražilová","Pavel Pustějovský","Jana Pastuchová","Stanislav Berkovec","Jan Kubík","Monika Oborná","Pavel Růžička","František Petrtýl","Eva Fialová","Andrea Babišová","Jiří Hlavatý","Robert Králíček","Petr Sadovský","Ivan Jáč","Tomáš Kohoutek","Jaroslav Kytýr","Miloslava Rutová","David Kasal","Radka Maxová","Zuzana Ožanová","Barbora Kořanová","Marcela Melková","Jaroslav Bžoch","Andrea Brzobohatá","Robert Pelikán","Taťána Malá","Ivo Vondrák","Margita Balaštíková","Karel Rais","Rostislav Vyzula","Milan Brázdil","David Pražák","Julius Špičák","Ladislav Okleštěk","Aleš Juchelka","Eva Matyášová","Karla Šlechtová","Přemysl Mališ","Karel Tureček","Petr Venhoda","Jan Řehounek","Richard Brabec","Jaroslav Faltýnek","Milan Feranec","Pavel Plzák","Pavel Juříček","Monika Červíčková","Věra Procházková","Jan Richter","Jiří Mašek","Jana Mračková Vildumetzová","Věra Adámková","Klára Dostálová","Josef Kott","Adam Kalous","Martin Kolovratník","Dan Ťok","Martin Stropnický","Adam Vojtěch","Jan Volný","Pavel Staněk","Josef Hájek","Andrej Babiš","Helena Válková","Radek Vondráček","Patrik Nacher"]
+
+var hlasovaniANO = [100.0,97.1,96.8,96.1,96.0,95.9,95.7,95.5,95.4,95.4,95.2,95.0,94.9,94.7,94.6,94.6,94.5,94.4,94.3,94.3,94.2,94.2,94.2,94.0,93.9,93.8,93.8,93.6,93.6,93.5,93.5,93.4,93.3,92.9,92.9,92.6,92.6,92.5,92.4,92.3,92.3,92.3,92.2,92.0,91.9,91.9,91.6,91.5,91.2,91.2,91.1,91.0,90.6,90.4,90.2,90.1,90.1,90.1,89.8,89.8,89.8,89.7,89.6,89.5,89.5,89.3,89.2,88.9,88.4,87.9,87.8,87.6,87.4,87.1,86.7,86.6,84.5,84.2,83.6,82.7,78.4,78.2];
+
+Highcharts.chart('casovaRada', {
+    chart: {
+        type: 'line'
+    },
+    title: {
+        text: 'Soudržnost politických stran'
+    },
+    subtitle: {
+        text: 'míra shody při hlasování v poslanecké sněmovně'
+    },
+    xAxis: {
+        categories: casovaRadaLegenda
+    },
+    yAxis: {
+        title: {
+            text: ''
+        },
+        labels: {
+            formatter: function () {
+                return this.value + '%';
+            }
+        },
+        min: 60,
+        max: 85,
+        startOnTick: false,
+        endOnTick: false
+    },
+    tooltip: {
+        pointFormat: '{point.series.name}: průměrně <b>{point.y} %</b> poslanců hlasovalo stejně<br/>'
+    },
+    exporting: {
+        enabled: false
+    },
+    credits: {
+        href: 'http://www.psp.cz',
+        text: 'Zdroj: Poslanecká sněmovna Parlamentu ČR'
+    },
+    plotOptions: {
+        line: {
+            marker: {
+                symbol: 'circle'
+            },
+            lineWidth: 2
+        },
+        turboThreshold: 0
+    },
+    series: [{
+        name: 'Čtyřkoalice',
+        data: casovaRada4K,
+        color: casovaRadaColors[0],
+        visible: false
+    }, {
+        name: 'ANO',
+        data: casovaRadaANO,
+        color: casovaRadaColors[1]
+    }, {
+        name: 'ČSSD',
+        data: casovaRadaCSSD,
+        color: casovaRadaColors[2]
+    }, {
+        name: 'KDU-ČSL',
+        data: casovaRadaKDU,
+        color: casovaRadaColors[3]
+    }, {
+        name: 'KSČM',
+        data: casovaRadaKSCM,
+        color: casovaRadaColors[4]
+    }, {
+        name: 'ODA',
+        data: casovaRadaODA,
+        color: casovaRadaColors[5],
+        visible: false
+    }, {
+        name: 'ODS',
+        data: casovaRadaODS,
+        color: casovaRadaColors[6]
+    }, {
+        name: 'Piráti',
+        data: casovaRadaPirati,
+        color: casovaRadaColors[7]
+    }, {
+        name: 'SPD',
+        data: casovaRadaSPD,
+        color: casovaRadaColors[8]
+    }, {
+        name: 'SPR-RSČ',
+        data: casovaRadaSPR,
+        color: casovaRadaColors[9],
+        visible: false
+    }, {
+        name: 'STAN',
+        data: casovaRadaSTAN,
+        color: casovaRadaColors[10],
+        visible: false
+    }, {
+        name: 'SZ',
+        data: casovaRadaSZ,
+        color: casovaRadaColors[11],
+        visible: false
+    }, {
+        name: 'TOP 09',
+        data: casovaRadaTOP,
+        color: casovaRadaColors[12],
+        visible: false
+    }, {
+        name: 'Unie svobody',
+        data: casovaRadaUS,
+        color: casovaRadaColors[13],
+        visible: false
+    }, {
+        name: 'Úsvit',
+        data: casovaRadaUsvit,
+        color: casovaRadaColors[14],
+        visible: false
+    }, {
+        name: 'VV',
+        data: casovaRadaVV,
+        color: casovaRadaColors[14],
+        visible: false
+    }, {
+        name: 'průměr',
+        data: casovaRadaPrumer,
+        color: casovaRadaColors[16],
+        dashStyle: 'Dot'
+    }]
+});
+
+Highcharts.chart('ano', {
+    chart: {
+        type: 'column'
+    },
+    title: {
+        text: 'Soudržnost ANO'
+    },
+    subtitle: {
+        text: 'v poslanecké sněmovně po roce 2017'
+    },
+    xAxis: {
+        categories: poslanciANO
+    },
+    yAxis: {
+        title: {
+            text: ''
+        },
+        labels: {
+            formatter: function () {
+                return this.value + '%';
+            }
+        },
+        max: 100,
+        min: 78
+    },
+    tooltip: {
+        pointFormat: '{point.series.name}: <b>{point.y} %</b><br/>'
+    },
+    exporting: {
+        enabled: false
+    },
+    credits: {
+        href: 'http://www.psp.cz',
+        text: 'Zdroj: Poslanecká sněmovna Parlamentu ČR'
+    },
+    plotOptions: {
+    },
+    series: [{
+        name: 'shoda s většinou',
+        data: hlasovaniANO
+    }]
+});
+
+		</script>
+	</body>
+</html>
+
