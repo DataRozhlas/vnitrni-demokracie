@@ -33,6 +33,8 @@
 
 <wide><div style="width: 1000px; height: 600px" id="top"></div></wide>
 
+<p>Předseda strany Jiří Pospíšil zasedá v Evropském parlamentu, v grafu proto ukazujeme shodu s hlasováním čestného předsedy strany Karla Schwarzenberga.</p>
+
 <style>
 
 .highcharts-plot-line-label {
@@ -889,7 +891,7 @@ Highcharts.chart('top', {
         text: 'v poslanecké sněmovně po roce 2017'
     },
     xAxis: {
-        categories: poslanciSTAN
+        categories: poslanciTOP
     },
     yAxis: {
         title: {
@@ -919,7 +921,7 @@ Highcharts.chart('top', {
             width: 1,
             zIndex: 5,
             label: {
-                text: 'Ø shoda s předsedou: ' + prumerPredseda[12] + '%',
+                text: 'Ø shoda s čestným předsedou*: ' + prumerPredseda[12] + '%',
                 align: 'right',
                 x: +10
             }
