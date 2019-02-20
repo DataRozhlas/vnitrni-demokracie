@@ -12,13 +12,11 @@ Na sněmu ANO minulý víkend obhájil Andrej Babiše pozici předsedy strany: n
 
 Podobně jednotné je hnutí ANO také v poslanecké sněmovně. Průměrně 92,1 % poslanců hlasovalo od voleb 2017 shodně s většinovým názorem strany. Je tak třetí nejjednotnější stranou po SPD a Pirátech.
 
-_citace Nacher_
+„U závazných věcí jsem stanovisko poslaneckého klubu vždycky dodržel,“ vysvětluje největší rebel mezi poslanci ANO Patrik Nacher, který se svým klubem hlasuje v 78,4 procentech případů. „Pokud mám jiný názor, snažím se na klubu aktivně přesvědčovat kolegy, jednou nebo dvakrát se mi to u velkých věcí skutečně podařilo. Naopak, kdyby tam někdo jako já nebyl, tak by byl legitimní váš dotaz, proč všichni hlasují jako jeden muž, byť ten klub má 78 poslanců.“
 
 <wide><div style="width: 100%; height: 600px" id="anovetsina"></div></wide>
 
 _Hlasování, kterých se poslanec neúčastnil, jsme při jeho hodnocení vyřadili. Hlasování, kdy byl pro, proti, nebo se zdržel, naopak započítáváme (tj. pokud většina hlasovala pro návrh a poslanec se zdržel hlasování, považujeme to za neshodu s většinou)._
-
-_vysvětlit rozdílnost ex-poslanců, zvýraznit je v grafu_
 
 „Andrej Babiš, stejně jako v devadesátých letech Sládek či dnes Okamura stranu vybudoval kolem sebe, což mu zajistilo respekt a ochotu přizpůsobit se jeho linii,“ vysvětluje vysokou shodu poslanců ANO politolog Fakulty sociálních studií Masarykovy univerzity Lubomír Kopeček. „Jednotu hlasování posiluje komunikační obratnost šéfa poslaneckého klubu Jaroslava Faltýnka, který dokáže dobře mediovat debaty v klubu.“
 
@@ -32,7 +30,7 @@ Druhým způsobem, jak měřit jednotu strany, je sledovat shodu poslanců s jej
 
 <wide><div style="width: 100%; height: 600px" id="anopredseda"></div></wide>
 
-## XXX
+## Historicky nejjednotnější: Sládkovi republikáni a Okamurova přímá demokracie
 
 Nejjednotnější jsou v současné sněmovně poslanci SPD se shodou 96,7 procenta. Vyšší měla v historii dolní komory parlamentu pouze SPR-RSČ Miroslava Sládka v letech 1996 až 1998.
 
@@ -54,7 +52,7 @@ Analýza předchozích volebních období ukazuje, že v období kolem opozičn�
 
 „Důležitou proměnnou může být i fáze volebního cyklu: v období, kdy sněmovna končí, by měla disciplína spíš klesat,“ dodává.
 
-## XXX
+## Foldyna: Hlasujeme jinak v zahraničních věcech, máme jiný postoj k Evropě
 
 Vysokou disciplínu měli v posledních dvou volebních obdobích poslanci ODS.
 
@@ -62,17 +60,17 @@ Vysokou disciplínu měli v posledních dvou volebních obdobích poslanci ODS.
 
 Důvodem je podle Kopečka stranická krize a s ní spojené vnější tlaky, které před volbami 2013 ohrozily samu existenci strany: pád Nečasovy vlády, prudký propad voličské podpory nebo silný mediální tlak. Všechny dohromady donutily poslance ODS vystupovat jednotně, aby nedali příležitost k mediálním útokům. Svou roli podle něj opět hraje i méně poslanců, kde je menší pravděpodobnost názorových rozdílností. Jsou ovšem výjimky: například mediálně hlasitý Václav Klaus mladší, ale i navenek méně výrazní, nicméně pro stranu klíčoví rebelové Marek Benda a Pavel Blažek.
 
-_citace Klaus mladší_
+„To je naprostý nesmysl, ve všech závazných hlasováních hlasuji stejně, a tam, kde můžeme každý volit, tak nějak volíme,“ reagoval Václav Klaus mladší.
 
-V současné ČSSD rebelové nejsou výjimkou: jednotně hlasují průměrně 82,4 procenta poslanců, sociální demokracie je nejméně jednotná ze všech devíti sněmovních stran. Mezi trojicí největších rebelů jsou předseda strany Jan Hamáček a místopředseda Jaroslav Foldyna.
+Na rozdíl od ODS nejsou v současné ČSSD rebelové výjimkou: jednotně hlasují průměrně 82,4 procenta poslanců, sociální demokracie je nejméně jednotná ze všech devíti sněmovních stran. Mezi trojicí největších rebelů jsou předseda strany Jan Hamáček a místopředseda Jaroslav Foldyna.
 
-_citace Foldyna_
+„Když člověk hlasuje jinak, než kolegové z politického klubu, tak to asi nebude zásadní problém,“ míní Jaroslav Foldyna, největší rebel mezi současnými poslanci ČSSD; se svými kolegy se shoduje v 71,9 procentech hlasování. „Často hlasuji rozdílně v otázkách, které se dotýkají třeba zahraniční politiky, kde mám poněkud jiný názor třeba na postoje k Evropské unii. Někteří mí kolegové se na zahraniční politiku dívají z globálního pohledu a já si myslím, že je potřeba se dívat hlavně na to, co je dobré pro naše občany.“
 
 <wide><div style="width: 100%; height: 600px" id="cssd"></div></wide>
 
-Důvěru ve svou stranu v posledním roce zztratili i bývalí předsedové Bohuslav Sobotka – ten loni v březnu složil poslanecký mandát – a Milan Chovanec.
+S vlastní stranou se rozešli nebo rozcházejí i bývalí předsedové Bohuslav Sobotka – ten loni v březnu složil poslanecký mandát – a Milan Chovanec.
 
-„V němž [poslaneckém slibu] jsem slíbil, že budu svůj mandát vykonávat ‚podle svého nejlepšího vědomí a svědomí‘. Svědomí je ryze individuální záležitostí a nelze jej podřídit kolektivnímu rozhodnutí,“ [uvedl loni v červenci](https://www.irozhlas.cz/zpravy-domov/svedomi-milan-chovanec-se-omluvil-z-hlasovani-o-duvere_1807111004_mat) před hlasováním o důvěře menšinové vlády ANO s ČSSD, podporované komunisty.
+„V němž [poslaneckém slibu] jsem slíbil, že budu svůj mandát vykonávat podle svého nejlepšího vědomí a svědomí,“ [vzkázal Chovanec voličům loni v červenci](https://www.irozhlas.cz/zpravy-domov/svedomi-milan-chovanec-se-omluvil-z-hlasovani-o-duvere_1807111004_mat) před hlasováním o důvěře menšinové vlády ANO s ČSSD, podporované komunisty. „Svědomí je ryze individuální záležitostí a nelze jej podřídit kolektivnímu rozhodnutí.“
 
 Podle Kopečka ovšem není na místě stranu odepisovat.
 
@@ -83,8 +81,6 @@ Podle Kopečka ovšem není na místě stranu odepisovat.
 „Když se na stranickou jednotu podíváte v celoevropském kontextu, k nejdisciplovanějším patřívají či patřívaly komunistické strany,“ dodává Švec. „Také u nás byla za nejdisciplovanější stranu považována KSČM. Krátce jí i byla, dnes je však míra shody nižší.“
 
 <wide><div style="width: 100%; height: 600px" id="kscm"></div></wide>
-
-## XXX
 
 Prohlédnout si můžete také grafy s poslanci ostatních sněmovních stran, seřazené od nejjednotnějších.
 
