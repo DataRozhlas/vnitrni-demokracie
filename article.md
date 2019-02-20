@@ -36,23 +36,53 @@ Druhým způsobem, jak měřit jednotu strany, je sledovat shodu poslanců s jej
 
 Nejjednotnější jsou v současné sněmovně poslanci SPD se shodou 96,7 procenta. Vyšší měla v historii dolní komory parlamentu pouze SPR-RSČ Miroslava Sládka v letech 1996 až 1998.
 
+<wide><div style="width: 100%; height: 600px" id="spd"></div></wide>
+
 „Vysvětlení vysoké stranické shody u republikánů a SPD je poměrně jednoduché, jasné a také podobné,“ vysvětluje politolog Kopeček. „Ani jedna strana nebyla nebo není součástí politického hlavního proudu, a také jsou poměrně izolované; SPD trochu méně než republikáni, ale je. Obojí zvyšuje semknutost poslanců a vytváření vlastního myšlenkového světa. Navíc v čele obou stran stál či stojí lídr – Miroslav Sládek, respektive Tomio Okamura – který danou stranu vybudoval kolem sebe a silně ji zcentralizoval.“
 
 „U obou stran také může hrát jistou, spíš ale méně významnou roli i to, že měli či mají menší poslanecké kluby,“ dodává Kopeček. „Ty se lépe kontrolují, na jednotlivé poslance je z vedení klubu i strany víc vidět.“
 
 <wide><div style="width: 100%; height: 600px" id="casovaRada"></div></wide>
 
+_Kliknutím do legendy grafu můžete zobrazit poslance kterékoliv strany, která měla zastoupení v poslanecké sněmovně. Míra shody je průměrem za všechna hlasování v daném sněmovním období._
+
+Analýza předchozích volebních období ukazuje, že v období kolem opoziční smlouvy z roku 1998 se stranická disciplína snižovala, od dalších voleb se neustále zvyšuje.
+
+„Opoziční smlouva vytvářela spojenectví, které uvnitř stran vyvolávalo vnitřní pnutí a disent,“ komentuje data Kopeček. „Spojenectví ČSSD a ODS mělo své důsledky v nespokojenosti poslanců při některých hlasováních. Platí to ale i pro ‚nesmluvní‘ opozici.“
+
+„Co se týká vývoje v čase, je zdaleka nejdůležitější proměnnou těsnost vládní většiny,“ doplňuje Chytilek. „U méně těsných konfigurací mohou strany tolerovat jistou nedisciplinovanost. Pokud třeba voliči v nějakém volebním kraji vidí situaci jinak než celá strana, je dokonce taktické tolerovat, že hlasují jinak. Další příčinou odlišného hlasování bývají morální otázky – pokud se tedy v některém období víc hlasovalo o homosexuálech, kouření, rodině, marihuaně, zbraních a podobně, může být disciplína všech stran nižší.“
+
+„Důležitou proměnnou může být i fáze volebního cyklu: v období, kdy sněmovna končí, by měla disciplína spíš klesat,“ dodává.
+
+## XXX
+
+Vysokou disciplínu měli v posledních dvou volebních obdobích poslanci ODS.
+
+<wide><div style="width: 100%; height: 600px" id="ods"></div></wide>
+
+Důvodem je podle Kopečka stranická krize a s ní spojené vnější tlaky, které před volbami 2013 ohrozily samu existenci strany: pád Nečasovy vlády, prudký propad voličské podpory nebo silný mediální tlak. Všechny dohromady donutily poslance ODS vystupovat jednotně, aby nedali příležitost k mediálním útokům. Svou roli podle něj opět hraje i méně poslanců, kde je menší pravděpodobnost názorových rozdílností. Jsou ovšem výjimky: například mediálně hlasitý Václav Klaus mladší, ale i navenek méně výrazní, nicméně pro stranu klíčoví rebelové Marek Benda a Pavel Blažek.
+
+_citace Klaus mladší_
+
+V současné ČSSD rebelové nejsou výjimkou: jednotně hlasuje průměrně 82,4 procenta poslanců, sociální demokracie je nejméně jednotná ze všech devíti sněmovních stran. Mezi trojicí největších rebelů jsou předseda strany Jan Hamáček a místopředseda Jaroslav Foldyna.
+
+_citace Foldyna_
+
 <wide><div style="width: 100%; height: 600px" id="cssd"></div></wide>
+
+„Právě u ČSSD je dobře vidět vliv toho, zda je strana vládní či opoziční,“ upozorňuje Kamil Švec, politolog Fakulty sociálních věd Univerzity Karlovy a analytik České televize. „V roce 1998 se silným předsedou Zemanem byla u nich shoda nejvyšší, postupně začala klesat a jako opoziční strana vykazovali hlasovací soudržnost naopak nejnižší.“
+
+Podle Kopečka ovšem není na místě stranu odepisovat.
+
+„Z grafu je patrné, že u čtyř pětin hlasování vystupuje ČSSD jednotně. Přestože je to míň, než u ostatních stran, je to pořád ještě poměrně vysoká míra shody a nejde o situaci fatálně rozdělené strany,“ vysvětluje.
+
+## XXX
 
 <wide><div style="width: 100%; height: 600px" id="kdu"></div></wide>
 
 <wide><div style="width: 100%; height: 600px" id="kscm"></div></wide>
 
-<wide><div style="width: 100%; height: 600px" id="ods"></div></wide>
-
 <wide><div style="width: 100%; height: 600px" id="pirati"></div></wide>
-
-<wide><div style="width: 100%; height: 600px" id="spd"></div></wide>
 
 <wide><div style="width: 100%; height: 600px" id="stan"></div></wide>
 
