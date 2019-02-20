@@ -1,5 +1,5 @@
-title: "Je ANO strana jednoho muže?"
-perex: "Nejjednotnější jsou poslanci SPD, nejméně jednotná ČSSD. Největšími rebely ODS jsou Václav Klaus mladší, Marek Benda a Pavel Blažek. V posledních patnácti letech jednota stran při hlasování roste. To vše ukázala analýza parlamentního hlasování."
+title: "Analýza poslaneckého hlasování: Je ANO skutečně strana jednoho muže?"
+perex: "Nejdisciplinovanější jsou poslanci SPD, nejméně jednotná ČSSD. Z ODS vyčnívají tři rebelové: Václav Klaus mladší, Marek Benda a Pavel Blažek. V posledních patnácti letech jednota stran při hlasování roste."
 published: "21. února 2019"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/images/03518191.jpeg?itok=MkfkRThg
 coverimg_note: "Andrej Babiš, Poslanecká sněmovna. Foto Filip Jandourek"
@@ -64,27 +64,36 @@ Důvodem je podle Kopečka stranická krize a s ní spojené vnější tlaky, kt
 
 _citace Klaus mladší_
 
-V současné ČSSD rebelové nejsou výjimkou: jednotně hlasuje průměrně 82,4 procenta poslanců, sociální demokracie je nejméně jednotná ze všech devíti sněmovních stran. Mezi trojicí největších rebelů jsou předseda strany Jan Hamáček a místopředseda Jaroslav Foldyna.
+V současné ČSSD rebelové nejsou výjimkou: jednotně hlasují průměrně 82,4 procenta poslanců, sociální demokracie je nejméně jednotná ze všech devíti sněmovních stran. Mezi trojicí největších rebelů jsou předseda strany Jan Hamáček a místopředseda Jaroslav Foldyna.
 
 _citace Foldyna_
 
 <wide><div style="width: 100%; height: 600px" id="cssd"></div></wide>
 
-„Právě u ČSSD je dobře vidět vliv toho, zda je strana vládní či opoziční,“ upozorňuje Kamil Švec, politolog Fakulty sociálních věd Univerzity Karlovy a analytik České televize. „V roce 1998 se silným předsedou Zemanem byla u nich shoda nejvyšší, postupně začala klesat a jako opoziční strana vykazovali hlasovací soudržnost naopak nejnižší.“
+Důvěru ve svou stranu v posledním roce zztratili i bývalí předsedové Bohuslav Sobotka – ten loni v březnu složil poslanecký mandát – a Milan Chovanec.
+
+„V němž [poslaneckém slibu] jsem slíbil, že budu svůj mandát vykonávat ‚podle svého nejlepšího vědomí a svědomí‘. Svědomí je ryze individuální záležitostí a nelze jej podřídit kolektivnímu rozhodnutí,“ [uvedl loni v červenci](https://www.irozhlas.cz/zpravy-domov/svedomi-milan-chovanec-se-omluvil-z-hlasovani-o-duvere_1807111004_mat) před hlasováním o důvěře menšinové vlády ANO s ČSSD, podporované komunisty.
 
 Podle Kopečka ovšem není na místě stranu odepisovat.
 
 „Z grafu je patrné, že u čtyř pětin hlasování vystupuje ČSSD jednotně. Přestože je to míň, než u ostatních stran, je to pořád ještě poměrně vysoká míra shody a nejde o situaci fatálně rozdělené strany,“ vysvětluje.
 
-## XXX
+„Mimochodem, právě u ČSSD je dobře vidět vliv toho, zda je strana vládní či opoziční,“ upozorňuje Kamil Švec, politolog Fakulty sociálních věd Univerzity Karlovy a analytik České televize. „V roce 1998 se silným předsedou Zemanem byla u nich shoda nejvyšší, postupně začala klesat a jako opoziční strana vykazovali hlasovací soudržnost naopak nejnižší.“
 
-<wide><div style="width: 100%; height: 600px" id="kdu"></div></wide>
+„Když se na stranickou jednotu podíváte v celoevropském kontextu, k nejdisciplovanějším patřívají či patřívaly komunistické strany,“ dodává Švec. „Také u nás byla za nejdisciplovanější stranu považována KSČM. Krátce jí i byla, dnes je však míra shody nižší.“
 
 <wide><div style="width: 100%; height: 600px" id="kscm"></div></wide>
 
+## XXX
+
+Prohlédnout si můžete také grafy s poslanci ostatních sněmovních stran, seřazené od nejjednotnějších.
+
 <wide><div style="width: 100%; height: 600px" id="pirati"></div></wide>
+
+<wide><div style="width: 100%; height: 600px" id="kdu"></div></wide>
+
+<wide><div style="width: 100%; height: 600px" id="top09"></div></wide>
 
 <wide><div style="width: 100%; height: 600px" id="stan"></div></wide>
 
-<wide><div style="width: 100%; height: 600px" id="top09"></div></wide>
 
