@@ -1,1 +1,7 @@
-/* styly ve složce styles/ se zakompliují automaticky */
+.highcharts-plot-line-label {
+    text-shadow:
+    -1px -1px 0 #FFF,
+     1px -1px 0 #FFF,
+    -1px  1px 0 #FFF,
+     1px  1px 0 #FFF;
+}

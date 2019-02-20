@@ -1,40 +1,60 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
-published: "21. dubna 2018"
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
-coverimg_note: "Foto <a href='#'>ČTK</a>"
+title: "Je ANO strana jednoho muže?"
+perex: "Nejjednotnější jsou poslanci SPD, nejméně jednotná ČSSD. Největšími rebely ODS jsou Václav Klaus mladší, Marek Benda a Pavel Blažek. V posledních patnácti letech jednota stran při hlasování roste. To vše ukázala analýza parlamentního hlasování."
+published: "21. února 2019"
+coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/images/03518191.jpeg?itok=MkfkRThg
+coverimg_note: "Andrej Babiš, Poslanecká sněmovna. Foto Filip Jandourek"
 styles: []
-libraries: [] #jquery, d3, d3v5, d3csv, highcharts, datatables
-options: [noheader, nopic] #wide, noheader (, nopic)
+libraries: [jquery, highcharts] #d3, d3v5, d3csv, datatables
+options: [] #wide, noheader (, nopic)
 ---
-<left>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</left>
 
-Během dne se lidé v Praze soustřeďují v okolí administrativních center a obchodů, po poledni se tak nejvíc zahustí okolí Andělu, centrum Prahy (Vodičkova ulice a Petrské náměstí) a Brumlovka nedaleko Budějovické. Na poslední jmenované adrese sídlí řada velkých korporací, mezi nimi i Microsoft nebo ČEZ. Pro srovnání, na zmíněných místech je ve „špičce“ okolo šesti stovek osob na jeden hektar, průměr Prahy je 25 obyvatel na [hektar](https://cs.wikipedia.org/wiki/Hektar) (Václavské náměstí má rozlohu asi 4 hektary).
+Na sněmu ANO minulý víkend obhájil Andrej Babiše pozici předsedy strany: neměl protikandidáta a získal 87procentní podporu. Podobně snadno uhájil pozici prvního místopředsedy Jaroslav Faltýnek.
 
-Naopak v noci se nejvíc lidí se „namačká“ ve Vršovicích, jde o 430 osob na hektar.
+Podobně jednotné je hnutí ANO také v poslanecké sněmovně. Průměrně 92,1 % poslanců hlasovalo od voleb 2017 shodně s většinovým názorem strany. Je tak třetí nejjednotnější stranou po SPD a Pirátech.
 
-Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský [Institut plánování a rozvoje](http://www.iprpraha.cz/).
+_citace Nacher_
 
-<wide>_Pokud vás zajímá, kolik lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte posuvníkem nahoře._</wide>
+<wide><div style="width: 100%; height: 600px" id="anovetsina"></div></wide>
 
+_Hlasování, kterých se poslanec neúčastnil, jsme při jeho hodnocení vyřadili. Hlasování, kdy byl pro, proti, nebo se zdržel, naopak započítáváme (tj. pokud většina hlasovala pro návrh a poslanec se zdržel hlasování, považujeme to za neshodu s většinou)._
 
-## Data na prodej
-<right>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</right>
+_vysvětlit rozdílnost ex-poslanců, zvýraznit je v grafu_
 
-I pokud netelefonujeme nebo neposíláme SMS, telefon pravidelně komunikuje s vysílači v síti mobilního operátora. Z dat o síle signálu a použité anténě je možné odvodit, kde se přibližně telefon nachází a jak dlouhou dobu na místě strávil.
+„Andrej Babiš, stejně jako v devadesátých letech Sládek či dnes Okamura stranu vybudoval kolem sebe, což mu zajistilo respekt a ochotu přizpůsobit se jeho linii,“ vysvětluje vysokou shodu poslanců ANO politolog Fakulty sociálních studií Masarykovy univerzity Lubomír Kopeček. „Jednotu hlasování posiluje komunikační obratnost šéfa poslaneckého klubu Jaroslava Faltýnka, který dokáže dobře mediovat debaty v klubu.“
 
-Mobilní operátor má [zákonnou povinnost](https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3) takové informace uchovávat, a to půl roku do minulosti, přistupovat k nim ale mohou jen bezpečnostní složky, typicky policie nebo rozvědka.
+„ANO navíc nepostihly ani v tomto, ani v minulém volebním období zásadnější vnitřní spory, a to ani ohledně evergreenu Čapí hnízdo a dalších kontroverzí spojených s předsedou,“ pokračuje Kopeček. „Když jsme s poslanci ANO připravovali knihu _Já platím, já rozhoduji! Političtí podnikatelé a jejich strany_, říkali, že veřejné tlaky kolem klubu naopak semkly kolem lídra.“
 
-Operátoři ale obdobné informace mohou anonymizovat (tedy zbavit identifikace konkrétního uživatele) a agregovat, tedy spojit informace o jednotlivcích do jakýchsi skupin. Výsledná obecná čísla pak přeprodávají dál, například marketingovým firmám či dopravním analytikům. Zpětně z nich nejde dovodit, kde se pohybuje každý jednotlivec, dávají ale určitý přehled o obecném chování obyvatel nějakého místa.
+Babišovu stranu podle něj drží pohromadě také vládní role. Největší část návrhů zákonů, o kterých se hlasuje ve sněmovně, přicházejí právě z vlády. Je proto logické, že poslanci ANO podpoří návrhy své vlády jednotně.
+
+Druhým způsobem, jak měřit jednotu strany, je sledovat shodu poslanců s jejím předsedou. Ta je u všech stran nižší – předsedové paradoxně nepatří k těm, kteří by měli nejvyšší shodu se svými poslanci. Naopak, často hlasují odlišně od svého poslaneckého klubu. Největšími „rebely“ ve svých stranách jsou například Pavel Bělobrádek (KDU-ČSL) nebo Vojtěch Filip (KSČM). Výjimkou není ani Andrej Babiš se čtvrtým nejodlišnějším hlasováním od většiny své strany.
+
+„Předpokládám, že je to tím, že se dost často zdržují hlasování,“ vysvětluje další politolog z brněnské Masarykovy univerzity Roman Chytilek. „Děje se to u nepopulárních témat nebo tam, kde je strana fakticky rozdělená a nechtějí se přidat na žádnou stranu. Další variantou jsou populární opoziční návrhy – u těch zase zdržení se hlasování může znamenat, že předseda koaliční strany není proti, ale návrh chce podat jako vládní tisk.“
+
+<wide><div style="width: 100%; height: 600px" id="anopredseda"></div></wide>
+
+## XXX
+
+Nejjednotnější jsou v současné sněmovně poslanci SPD se shodou 96,7 procenta. Vyšší měla v historii dolní komory parlamentu pouze SPR-RSČ Miroslava Sládka v letech 1996 až 1998.
+
+„Vysvětlení vysoké stranické shody u republikánů a SPD je poměrně jednoduché, jasné a také podobné,“ vysvětluje politolog Kopeček. „Ani jedna strana nebyla nebo není součástí politického hlavního proudu, a také jsou poměrně izolované; SPD trochu méně než republikáni, ale je. Obojí zvyšuje semknutost poslanců a vytváření vlastního myšlenkového světa. Navíc v čele obou stran stál či stojí lídr – Miroslav Sládek, respektive Tomio Okamura – který danou stranu vybudoval kolem sebe a silně ji zcentralizoval.“
+
+„U obou stran také může hrát jistou, spíš ale méně významnou roli i to, že měli či mají menší poslanecké kluby,“ dodává Kopeček. „Ty se lépe kontrolují, na jednotlivé poslance je z vedení klubu i strany víc vidět.“
+
+<wide><div style="width: 100%; height: 600px" id="casovaRada"></div></wide>
+
+<wide><div style="width: 100%; height: 600px" id="cssd"></div></wide>
+
+<wide><div style="width: 100%; height: 600px" id="kdu"></div></wide>
+
+<wide><div style="width: 100%; height: 600px" id="kscm"></div></wide>
+
+<wide><div style="width: 100%; height: 600px" id="ods"></div></wide>
+
+<wide><div style="width: 100%; height: 600px" id="pirati"></div></wide>
+
+<wide><div style="width: 100%; height: 600px" id="spd"></div></wide>
+
+<wide><div style="width: 100%; height: 600px" id="stan"></div></wide>
+
+<wide><div style="width: 100%; height: 600px" id="top09"></div></wide>
+
